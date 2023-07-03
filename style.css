@@ -122,7 +122,7 @@ img{
     height: 450px;
     width: 450px;
     position: relative;
-    background-image: url(../assets/f1.jpeg);
+    background-image: url(./f1.jpeg);
     background-size: cover;
 }
 
@@ -147,7 +147,7 @@ img{
 
 .skill1 {
     position: relative;
-    background-image: url(../assets/cssP.png);
+    background-image: url(./cssP.png);
     background-size: cover;
     bottom: 30px;
 }
@@ -156,7 +156,7 @@ img{
 
 
 .skill2 {
-    background-image: url(../assets/figmaP.png);
+    background-image: url(./figmaP.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -164,7 +164,7 @@ img{
 }
 
 .skill3 {
-    background-image: url(../assets/jsP.png);
+    background-image: url(./jsP.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -172,7 +172,7 @@ img{
    
 }
 .skill4 {
-    background-image: url(../assets/reactP.png);
+    background-image: url(./reactP.png);
     background-size: cover;
     background-position: center;
     background-repeat: no-repeat;
@@ -180,7 +180,7 @@ img{
   
 }
 .skill5 {
-    background-image: url(../assets/web3.png);
+    background-image: url(./web3.png);
     background-size: contain;
     background-position: center;
     background-repeat: no-repeat;
@@ -520,14 +520,14 @@ img{
 }
 
 .tools_css {
-    background-image: url(../assets/cssP.png);
+    background-image: url(./cssP.png);
     background-size: cover;
    top: 10px;
    right: -23px;
 }
 
 .tools_js{
-    background-image: url(../assets/jsP.png);
+    background-image: url(./jsP.png);
     background-size: cover;
    top: 70px;
    right: -23px;
